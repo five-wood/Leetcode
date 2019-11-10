@@ -1,3 +1,9 @@
+/*
+解题关键：
+1、排序
+2、双指针
+3、去重
+*/
 using System.Collections.Generic;
 public class Solution {
     public IList<IList<int>> ThreeSum(int[] nums) {
